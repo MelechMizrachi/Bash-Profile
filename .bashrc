@@ -70,7 +70,7 @@ alias gitpushwilfred='git push origin wilfred'
 # Folder Aliases
 alias home='cd ~/'
 alias rt='cd /'
-alias dev='cd ~/dev && ll'
+alias dev='cd ~/Dev && ll'
 alias sites='cd ~/Sites/ && ll'
 alias fxshows='cd ~/Sites/fx-shows && ll'
 alias fxshowspub='cd ~/Sites/fx-shows/public && ll'
